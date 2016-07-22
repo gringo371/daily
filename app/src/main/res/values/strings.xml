@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Daily</string>
+
+    <string name="login.message.email">E-mail</string>
+    <string name="login.message.password">Password</string>
+    <string name="login.button.signin">Sing in</string>
+    <string name="login.button.signup">Sing up</string>
+    <string name="login.error.message.signin">Impossible sing in %s</string>
+    <string name="login.error.message.signup">Impossible sing up %s</string>
+    <string name="login.notice.message.signup">User register successfully</string>
+
+    <string name="list.notice.message.remove">%s has been removed</string>
+    <string name="list.error.message.remove">impossible to remove page %s</string>
+    <string name="list.row.message.erase">Erase</string>
+
+    <string name="write.hint.title">Title</string>
+    <string name="writer.hint.date">Date</string>
+    <string name="write.notice.save">The annotation has been saved</string>
+
+    <string name="global.menu.action.logout">logout</string>
+</resources>
